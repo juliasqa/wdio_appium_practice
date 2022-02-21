@@ -1,0 +1,12 @@
+
+
+Sun Feb 20 2022 15:23:55 GMT+0700 (Indochina Time) -- ***
+Sun Feb 20 2022 15:23:55 GMT+0700 (Indochina Time) -- Setting the --only-automate parameter will stop local testing via command line from working with BrowserStack Live and BrowserStack Screenshots.
+Sun Feb 20 2022 15:23:55 GMT+0700 (Indochina Time) -- To enable local testing via the command line for Live and Screenshots, rerun BrowserStackLocal without --only-automate.
+Sun Feb 20 2022 15:23:55 GMT+0700 (Indochina Time) -- ***
+
+Sun Feb 20 2022 15:23:58 GMT+0700 (Indochina Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Feb 20 2022 15:23:59 GMT+0700 (Indochina Time) -- Press Ctrl-C to exit
+
+
